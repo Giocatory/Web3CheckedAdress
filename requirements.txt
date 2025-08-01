@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+web3
+python-dotenv
+httpx
+cachetools
+orjson
