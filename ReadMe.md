@@ -1,7 +1,3 @@
-# **DeNet Python Hero**
-
-**Тестовое задание:**
-
 **Основные задачи:**
 
 1. Определение приоритетов: Выберите, что нужно выполнить в первую очередь для оценки и тестирования вашей работы.
@@ -70,4 +66,5 @@ output: {symbol: "TBY", name: "Storage GasToken", totalSupply: 1000000}
 Ответ: {"balances": [0.01, 0.01]}
 
 Информация для поиска в помощь к разработке
+
 web3.py, ERC20, ERC20 ABI, polygonscan, decimals (erc20), Flask or Django, async  launch code. Polygon RPC
